@@ -1,6 +1,6 @@
 ### Hey, friend!
 
- :smiley: :wave:   , i'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). Well, you've already seen that in my profile summary, right?! lol...
+ :smiley: :wave:   , i'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
  
 ## Contatos:
 
@@ -13,7 +13,7 @@
 
   
 #### I worked for 5 years as a Civil Engineer. I am looking to contribute solutions to society through the development of new applications. I am a very dedicated and proactive professional. I always do my best with the tools I have. At all times willing to help and attentive to learn. I believe that only knowledge is able to expand our mind to the world.
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CeLo93/CeLo93/blob/output/github-contribution-grid-snake.svg)
 <h2 align="left">Languages and tools:</h2>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)            
@@ -35,7 +35,7 @@
 
 
  ______________________________________________________________________________
- 
+ #### My Day :smiley: ------v
  
 
 | | | | |%|
