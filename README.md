@@ -16,7 +16,7 @@
 I worked for 5 years as a Civil Engineer. I am looking to contribute solutions to society through the development of new applications. I am a very dedicated and proactive professional. I always do my best with the tools I have. At all times willing to help and attentive to learn. I believe that only knowledge is able to expand our mind to the world.
 </div>
 
-![](https://github.com/Celo93/3PjI.gif)
+![](https://github.com/CeLo93/Celo93/3PjI.gif)
 
 #### My Day :smiley: ------v
 | | | | |%|
