@@ -2,10 +2,29 @@
 
  :smiley: :wave:   , i'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). Well, you've already seen that in my profile summary, right?! lol...
  
+## Contatos:
 
- 
-<h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<div>
+<a href="https://www.youtube.com/https://www.youtube.com/channel/UCvjn1p6Pny3f2StiLvwR2Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/m_brito93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcelobrito.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelo-brito-de-morais-b18aa5214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+  
+#### I worked for 5 years as a Civil Engineer. I am looking to contribute solutions to society through the development of new applications. I am a very dedicated and proactive professional. I always do my best with the tools I have. At all times willing to help and attentive to learn. I believe that only knowledge is able to expand our mind to the world.
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Languages and tools:</h3>
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />
+
+
+
+
 
 | | | | |%|
 | --- | --- | --- | --- | --- |
@@ -14,19 +33,14 @@
 | :moon: | Evening | (18.00-00.00] | [*****---------------] | 28.00 |
 | :sleeping: | Night | (00.00-06.00] | [*-----------------] | 10.00 |
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeLo93&theme=radical&show_icons=true)
-
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of C# abd Python 😛</small>
-  <br />
-  <br />
+<div>
+<a href="https://github.com/CeLo93">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-#### I worked for 5 years as a Civil Engineer. I am looking to contribute solutions to society through the development of new applications. I am a very dedicated and proactive professional. I always do my best with the tools I have. At all times willing to help and attentive to learn. I believe that only knowledge is able to expand our mind to the world.
+
+
+
+
+
+
