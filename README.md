@@ -1,5 +1,7 @@
-![ezgif com-gif-maker (21)](https://user-images.githubusercontent.com/92175791/190871280-6e66f3d6-e880-4644-9a07-673c57e21f5f.gif)![ezgif com-gif-maker (23)](https://user-images.githubusercontent.com/92175791/190871371-69a931d6-66a5-4104-8544-5c72a682246e.gif)![ezgif com-gif-maker (24)](https://user-images.githubusercontent.com/92175791/190871539-31e64ac9-0189-4f2a-9b1c-03484005e4f2.gif)![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/92175791/190871314-9ad3859c-5f2a-4198-8be9-07ae3246ffe8.gif)
-### Hey, friend ![ezgif com-gif-maker (14)](https://user-images.githubusercontent.com/92175791/190869440-0dca75b9-8029-4210-9cf4-d9bd764125fe.gif) 
+![ezgif com-gif-maker (21)](https://user-images.githubusercontent.com/92175791/190871280-6e66f3d6-e880-4644-9a07-673c57e21f5f.gif)![ezgif com-gif-maker (23)](https://user-images.githubusercontent.com/92175791/190871371-69a931d6-66a5-4104-8544-5c72a682246e.gif)![ezgif com-gif-maker (24)](https://user-images.githubusercontent.com/92175791/190871539-31e64ac9-0189-4f2a-9b1c-03484005e4f2.gif)![ezgif com-gif-maker (25)](https://user-images.githubusercontent.com/92175791/190872148-4e0020a2-f9b4-4fad-a47f-cbaf1f6ccd96.gif)![ezgif com-gif-maker (26)](https://user-images.githubusercontent.com/92175791/190872474-686d9577-1b95-4961-817e-1bc6bf70670e.gif)
+
+![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/92175791/190871314-9ad3859c-5f2a-4198-8be9-07ae3246ffe8.gif)
+### Hey, friend ![ezgif com-gif-maker (14)](https://user-images.githubusercontent.com/92175791/190869440-0dca75b9-8029-4210-9cf4-d9bd764125fe.gif)
 
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
@@ -52,7 +54,6 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 
-![ezgif com-gif-maker (17)](https://user-images.githubusercontent.com/92175791/190870323-7e4a2191-d7d4-49c3-8303-a77a5a3e4eb6.gif)
 
 
 ## I am learning 
@@ -61,6 +62,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 
 
 
+![ezgif com-gif-maker (17)](https://user-images.githubusercontent.com/92175791/190870323-7e4a2191-d7d4-49c3-8303-a77a5a3e4eb6.gif)
 
 <a href="https://github.com/CeLo93"> 
      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
