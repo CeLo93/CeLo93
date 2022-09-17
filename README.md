@@ -76,4 +76,4 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
 </div> </a>
 
-![ezgif com-gif-maker (59)](https://user-images.githubusercontent.com/92175791/190878202-366bf52b-f3be-46cb-b851-b057c77e3412.gif)
+![ezgif com-gif-maker (65)](https://user-images.githubusercontent.com/92175791/190879245-8eed68a2-ed33-4800-bee5-a9576661b74e.gif)
