@@ -1,6 +1,6 @@
 ### Hey, friend!
 
- :smiley: :wave:   , i'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
+ :smiley: :wave:   , I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
  
 ## Contatos:
 
