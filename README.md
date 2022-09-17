@@ -22,9 +22,16 @@
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />
 
+<div>
+<a href="https://github.com/CeLo93">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
+</div> </a> 
 
 
-
+ ______________________________________________________________________________
+ 
+ 
 
 | | | | |%|
 | --- | --- | --- | --- | --- |
@@ -33,11 +40,7 @@
 | :moon: | Evening | (18.00-00.00] | [*****---------------] | 28.00 |
 | :sleeping: | Night | (00.00-06.00] | [*-----------------] | 10.00 |
 
-<div>
-<a href="https://github.com/CeLo93">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 
