@@ -65,7 +65,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" /> ![ezgif com-gif-maker (17)](https://user-images.githubusercontent.com/92175791/190870323-7e4a2191-d7d4-49c3-8303-a77a5a3e4eb6.gif)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" /> ![ezgif com-gif-maker (75)](https://user-images.githubusercontent.com/92175791/190880530-36360de6-ccdf-48b5-8740-cead1d966f4e.gif)
 
 
 
