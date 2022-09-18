@@ -1,3 +1,4 @@
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/92175791/190920777-c3935f9a-a8ee-4ed0-babb-2432c224e203.gif)
 ## Hey, friend![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
@@ -41,4 +42,4 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <a href="https://www.linkedin.com/in/marcelo-brito-de-morais-b18aa5214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  ![ezgif com-gif-maker (34)](https://user-images.githubusercontent.com/92175791/190873647-8d06160f-debb-452a-ada6-99ea6bcb6d79.gif)
 
-![ezgif com-gif-maker (74)](https://user-images.githubusercontent.com/92175791/190880033-88c0af54-113d-4435-89a1-e871cf4eb94e.gif)![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/92175791/190920979-52787f90-811e-4e6b-8aff-6ede45a01aeb.gif)
+![ezgif com-gif-maker (74)](https://user-images.githubusercontent.com/92175791/190880033-88c0af54-113d-4435-89a1-e871cf4eb94e.gif)
