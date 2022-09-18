@@ -1,13 +1,13 @@
-## Hey, friend![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
+# Hey, friend![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
-## About me![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/92175791/190871314-9ad3859c-5f2a-4198-8be9-07ae3246ffe8.gif)![ezgif com-gif-maker (60)](https://user-images.githubusercontent.com/92175791/190878309-221690f6-a6cd-4f22-8204-f593cf1793a6.gif)
+# About me![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/92175791/190871314-9ad3859c-5f2a-4198-8be9-07ae3246ffe8.gif)![ezgif com-gif-maker (60)](https://user-images.githubusercontent.com/92175791/190878309-221690f6-a6cd-4f22-8204-f593cf1793a6.gif)
 
 <div>
 I love computers, math and games since I was 4 years old. I worked 5 years as a Civil Engineer. Engineering has always been my passion. I am a very dedicated and proactive person. I always do my best with the tools I have, always! I am willing to help and attentive to learn. Remember that good humor has something generous about it: it gives more than it receives.
  
-## Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92175791/190916691-6c640fd2-fa45-41fa-8e03-77a1bd1da162.gif)
+# Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92175791/190916691-6c640fd2-fa45-41fa-8e03-77a1bd1da162.gif)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=green)            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="80" height="80" />
@@ -25,7 +25,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 
 </div>
 
-### My Day  ![ezgif com-gif-maker (58)](https://user-images.githubusercontent.com/92175791/190877461-9eb40846-8772-49ef-bffd-5fc51f22bb03.gif)
+## My Day  ![ezgif com-gif-maker (58)](https://user-images.githubusercontent.com/92175791/190877461-9eb40846-8772-49ef-bffd-5fc51f22bb03.gif)
 | | | | |%|
 | --- | --- | --- | --- | --- |
 | :sunny: | Morning | (06.00-12.00] | [******---------------] | 30.00 |
@@ -33,7 +33,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 | :moon: | Evening | (18.00-00.00] | [*****---------------] | 25.00 |
 | :sleeping: | Night | (00.00-06.00] | [**--------------] | 10.00 |
 
-## Contact ![ezgif com-gif-maker (36)](https://user-images.githubusercontent.com/92175791/190874451-094c1c51-d8ac-4c48-9be7-603b5da5a70c.gif)
+# Contact ![ezgif com-gif-maker (36)](https://user-images.githubusercontent.com/92175791/190874451-094c1c51-d8ac-4c48-9be7-603b5da5a70c.gif)
 
 <a href="https://www.youtube.com/channel/UCvjn1p6Pny3f2StiLvwR2Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/m_brito93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
