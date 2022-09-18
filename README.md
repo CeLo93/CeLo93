@@ -50,7 +50,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 
 
 
-## Languages and tools ![ezgif com-gif-maker (57)](https://user-images.githubusercontent.com/92175791/190877463-1186f1ae-2aca-4876-855b-598c120c314f.gif)
+## Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)
 
 
 
@@ -65,7 +65,8 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" /> ![ezgif com-gif-maker (75)](https://user-images.githubusercontent.com/92175791/190880530-36360de6-ccdf-48b5-8740-cead1d966f4e.gif)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" />![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/92175791/190915769-25abf43d-e29e-4e14-b6eb-f02f9938dddc.gif)
+ 
 
 
 
