@@ -1,4 +1,4 @@
-# Hey, friend![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
+# Hey, dev![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
