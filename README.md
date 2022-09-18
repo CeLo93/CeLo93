@@ -15,40 +15,6 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
  
 
 
-
-
-
-
- 
-## Contact ![ezgif com-gif-maker (36)](https://user-images.githubusercontent.com/92175791/190874451-094c1c51-d8ac-4c48-9be7-603b5da5a70c.gif)
-
-
-<a href="https://www.youtube.com/channel/UCvjn1p6Pny3f2StiLvwR2Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/m_brito93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:marcelobrito.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcelo-brito-de-morais-b18aa5214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- ![ezgif com-gif-maker (34)](https://user-images.githubusercontent.com/92175791/190873647-8d06160f-debb-452a-ada6-99ea6bcb6d79.gif)
-
-
-
-
- 
-
-
-</div>
-
-
-### My Day  ![ezgif com-gif-maker (58)](https://user-images.githubusercontent.com/92175791/190877461-9eb40846-8772-49ef-bffd-5fc51f22bb03.gif)
-| | | | |%|
-| --- | --- | --- | --- | --- |
-| :sunny: | Morning | (06.00-12.00] | [******---------------] | 30.00 |
-| :satisfied: | Daytime | (12.00-18.00] | [*******----------------] | 35.00 |
-| :moon: | Evening | (18.00-00.00] | [*****---------------] | 25.00 |
-| :sleeping: | Night | (00.00-06.00] | [**--------------] | 10.00 |
-
-
-
-
 ## Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92175791/190916691-6c640fd2-fa45-41fa-8e03-77a1bd1da162.gif)
 
 
@@ -73,5 +39,27 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
 </div> </a>
+
+
+</div>
+
+
+### My Day  ![ezgif com-gif-maker (58)](https://user-images.githubusercontent.com/92175791/190877461-9eb40846-8772-49ef-bffd-5fc51f22bb03.gif)
+| | | | |%|
+| --- | --- | --- | --- | --- |
+| :sunny: | Morning | (06.00-12.00] | [******---------------] | 30.00 |
+| :satisfied: | Daytime | (12.00-18.00] | [*******----------------] | 35.00 |
+| :moon: | Evening | (18.00-00.00] | [*****---------------] | 25.00 |
+| :sleeping: | Night | (00.00-06.00] | [**--------------] | 10.00 |
+
+## Contact ![ezgif com-gif-maker (36)](https://user-images.githubusercontent.com/92175791/190874451-094c1c51-d8ac-4c48-9be7-603b5da5a70c.gif)
+
+
+<a href="https://www.youtube.com/channel/UCvjn1p6Pny3f2StiLvwR2Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/m_brito93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcelobrito.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelo-brito-de-morais-b18aa5214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ ![ezgif com-gif-maker (34)](https://user-images.githubusercontent.com/92175791/190873647-8d06160f-debb-452a-ada6-99ea6bcb6d79.gif)
+
 
 ![ezgif com-gif-maker (74)](https://user-images.githubusercontent.com/92175791/190880033-88c0af54-113d-4435-89a1-e871cf4eb94e.gif)
