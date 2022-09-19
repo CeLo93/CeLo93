@@ -1,4 +1,4 @@
-# Hey, friend![ezgif com-gif-maker (61)](https://user-images.githubusercontent.com/92175791/190878355-65adae16-36c1-445c-a642-343e5333114a.gif)
+# Hey, friend ![ezgif com-gif-maker (14)](https://user-images.githubusercontent.com/92175791/191136682-af40d80d-3958-4043-a3ff-ed057c9eae19.gif)![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92175791/190916691-6c640fd2-fa45-41fa-8e03-77a1bd1da162.gif)
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
@@ -7,7 +7,7 @@ I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and fi
 <div>
 I love computers, math and games since I was 4 years old. I worked 5 years as a Civil Engineer. Engineering has always been my passion. I am a very dedicated and proactive person. I always do my best with the tools I have, always! I am willing to help and attentive to learn. Remember that good humor has something generous about it: it gives more than it receives.
  
-# Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92175791/190916691-6c640fd2-fa45-41fa-8e03-77a1bd1da162.gif)
+# Languages and tools ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92175791/190915626-6fce1dc7-1419-49b3-9bcf-9fff55aa54c8.gif)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=green)            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="80" height="80" />
