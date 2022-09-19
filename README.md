@@ -15,15 +15,22 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" />![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/92175791/190915769-25abf43d-e29e-4e14-b6eb-f02f9938dddc.gif)
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/92175791/190915769-25abf43d-e29e-4e14-b6eb-f02f9938dddc.gif)
+
+## I am learning
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="70" height="70" />
+ </div>
+ <p>
+ <div>
 <a href="https://github.com/CeLo93"> 
      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
 </div> </a>
-
+</p>
 </div>
+<div>
 
 ## My Day  ![ezgif com-gif-maker (58)](https://user-images.githubusercontent.com/92175791/190877461-9eb40846-8772-49ef-bffd-5fc51f22bb03.gif)
 | | | | |%|
@@ -32,6 +39,8 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 | :satisfied: | Daytime | (12.00-18.00] | [*******----------------] | 35.00 |
 | :moon: | Evening | (18.00-00.00] | [*****---------------] | 25.00 |
 | :sleeping: | Night | (00.00-06.00] | [**--------------] | 10.00 |
+
+</div>
 
 # Contact ![ezgif com-gif-maker (36)](https://user-images.githubusercontent.com/92175791/190874451-094c1c51-d8ac-4c48-9be7-603b5da5a70c.gif)
 
