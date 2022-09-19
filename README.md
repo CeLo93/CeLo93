@@ -2,7 +2,7 @@
 
 I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
-# About me![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/92175791/190871314-9ad3859c-5f2a-4198-8be9-07ae3246ffe8.gif)![ezgif com-gif-maker (60)](https://user-images.githubusercontent.com/92175791/190878309-221690f6-a6cd-4f22-8204-f593cf1793a6.gif)
+# About me![ezgif com-gif-maker (60)](https://user-images.githubusercontent.com/92175791/190878309-221690f6-a6cd-4f22-8204-f593cf1793a6.gif)
 
 <div>
 I love computers, math and games since I was 4 years old. I worked 5 years as a Civil Engineer. Engineering has always been my passion. I am a very dedicated and proactive person. I always do my best with the tools I have, always! I am willing to help and attentive to learn. Remember that good humor has something generous about it: it gives more than it receives.
