@@ -1,6 +1,6 @@
 # Hey, friend ![ezgif com-gif-maker (15)](https://user-images.githubusercontent.com/92175791/191137092-ef793eee-3448-4a1d-bd24-6b5c6655beb9.gif)
 
-I'am Civil Engineer (FUNORTE), studying Software Engineering (UniFatecie) and first year in the postgraduate course in AI and Machine Learning (PUC Minas). I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
+I'am Civil Engineer, studying Software Engineering and first year in the postgraduate course in AI and Machine Learning. I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
 # About me
 
