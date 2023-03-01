@@ -1,14 +1,17 @@
-# Hey, friend ![ezgif com-gif-maker (15)](https://user-images.githubusercontent.com/92175791/191137092-ef793eee-3448-4a1d-bd24-6b5c6655beb9.gif)
+<!-- Continuous Improvement Programme - CIP -->
+# ![hell0](https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif)
+<!-- https://cyber.dabamos.de/88x31/hell0.gif -->
+
 
 I'am Civil Engineer, studying Software Engineering and first year in the postgraduate course in AI and Machine Learning. I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
 
-# Contact 
+# Contact <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+
 
 <a href="https://www.youtube.com/channel/UCvjn1p6Pny3f2StiLvwR2Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/m_brito93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:marcelobrito.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelo-brito-de-morais-b18aa5214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- ![ezgif com-gif-maker (34)](https://user-images.githubusercontent.com/92175791/190873647-8d06160f-debb-452a-ada6-99ea6bcb6d79.gif)
 
 
 
@@ -17,16 +20,25 @@ I'am Civil Engineer, studying Software Engineering and first year in the postgra
 <div>
 I love computers, math and games since I was 4 years old. I worked 5 years as a Civil Engineer. Engineering has always been my passion. I am a very dedicated and proactive person. I always do my best with the tools I have, always! I am willing to help and attentive to learn. Remember that there is something generous about empathy: it gives more than it receives.
  
-# Languages and tools
+# Languages and tools ![ezgif com-gif-maker (15)](https://user-images.githubusercontent.com/92175791/191137092-ef793eee-3448-4a1d-bd24-6b5c6655beb9.gif)
+
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" /> |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" /> 
+
+
            
       
  <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70" />
+ 
+
+
+
+         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"  />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="70" height="70" />
@@ -49,7 +61,6 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="70" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="70" height="70" />
 
@@ -68,13 +79,7 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 </div>
 <div>
 
-## My Day  ![ezgif com-gif-maker (60)](https://user-images.githubusercontent.com/92175791/190878309-221690f6-a6cd-4f22-8204-f593cf1793a6.gif)
-| | | | |%|
-| --- | --- | --- | --- | --- |
-| :sunny: | Morning | (06.00-12.00] | [******---------------] | 30.00 |
-| :satisfied: | Daytime | (12.00-18.00] | [*******----------------] | 35.00 |
-| :moon: | Evening | (18.00-00.00] | [*****---------------] | 25.00 |
-| :sleeping: | Night | (00.00-06.00] | [**--------------] | 10.00 |
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 </div>
 
