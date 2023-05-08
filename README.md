@@ -55,8 +55,8 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
  <p align="center">
 
 <a href="https://github.com/CeLo93"> 
-     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
-     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
  </a>
 </p>
 <div>
