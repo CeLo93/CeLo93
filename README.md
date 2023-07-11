@@ -1,9 +1,14 @@
-## 👋 Hello! I'm Marcelo! :D
+# 👋 Hello! I'm Marcelo! :D
+
+I am a Civil Engineer currently studying Software Engineering and pursuing a postgraduate course in AI and Machine Learning. I'm from Montes Claros, MG, Brazil. You've probably already seen that in my profile summary, right? 😄
 
 
+ <div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-I'am Civil Engineer, studying Software Engineering and second year in the postgraduate course in AI and Machine Learning. I'm from Montes Claros - MG Brazil. Well, you've already seen that in my profile summary, right?! lol...
+</div>
+
 
 # Contact <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 
@@ -51,21 +56,21 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
  __________
  
  
- 
 <p align="center">
 <img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Unity-brown">
 
  
- <p align="center">
+ 
+<p align="center"
 
-<a href="https://github.com/CeLo93"> 
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dracula"/ >
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ >
- </a>
-</p>
-<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celo93&show_icons=true&theme=compact)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celo93&layout=compact)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+>
 
-</div>
+
+
+
+
+
+
 
