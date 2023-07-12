@@ -60,17 +60,3 @@ I love computers, math and games since I was 4 years old. I worked 5 years as a 
 <img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Unity-brown">
 
  
- 
-<p align="center"
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celo93&show_icons=true&theme=compact)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celo93&layout=compact)
-
->
-
-
-
-
-
-
-
-
