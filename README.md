@@ -1,4 +1,6 @@
-# 👋 Hello! I'm Marcelo! :D
+<p align="center">
+  <img src="https://github.com/CeLo93/CeLo93/raw/main/assets/github-v2.gif" alt="Hello! I'm Marcelo, a Machine Learning engineer, and a passionate Unity developer from Brazil 🇧🇷">
+</p>
 
 I am a Civil Engineer currently studying Software Engineering and pursuing a postgraduate course in AI and Machine Learning. I'm from Montes Claros, MG, Brazil. You've probably already seen that in my profile summary, right? 😄
 
