@@ -1,12 +1,12 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Unity-brown">
 
-# 🤖 *Hello! I'm Marcelo, a passionate Machine Learning engineer, and Unity developer.*
+#  *Hello! I'm Marcelo, a passionate Machine Learning engineer, and Unity developer.*
 
 # 💫 About Me:
 I am Marcelo, a Civil Engineer currently studying Software Engineering and pursuing a postgraduate course in AI and Machine Learning. I am from Montes Claros, MG, Brazil. You've probably already seen that in my profile summary, right? 😄
 
-*My passion for programming has led me to master languages such as Python and C#, along with skills in Power BI, SQL, R, and Unity. This allows me to develop efficient, automated solutions and conduct accurate data analysis. Additionally, I have experience in Web Scraping, adding even more value to my skill set. In project development, I am committed to using best versioning practices, utilizing Git along with tools like Sourcetree, Sharepoint, and GitHub Desktop, which optimize team collaboration and project management.*
+*My passion for programming has led me to master languages such as Python and C#, along with skills in Power BI, SQL, R, and Unity. This allows me to develop efficient, automated solutions and conduct accurate data analysis. Additionally, I have experience in Web Scraping, adding even more value to my skill set. In project development, I am committed to using best versioning practices, utilizing Git along with tools like Sourcetree, Sharepoint, and GitHub Desktop, which optimize team collaboration and project management.* 🤖
 
 
 <div>
