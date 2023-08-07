@@ -3,6 +3,12 @@
 
 #  *Hello! I'm Marcelo, a passionate Machine Learning engineer, and Unity developer.*
 
+<em><b>"Companies that stride hand in hand with AI and Cloud are destined for success."</b> :rocket: </em>
+
+
+
+
+
 # 💫 About Me:
 I am Marcelo, a Civil Engineer currently studying Software Engineering and pursuing a postgraduate course in AI and Machine Learning. I am from Montes Claros, MG, Brazil. You've probably already seen that in my profile summary, right? 😄
 
