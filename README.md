@@ -40,4 +40,8 @@ I am Marcelo, a Civil Engineer currently studying Software Engineering and pursu
 ![](https://github-contributor-stats.vercel.app/api?username=CeLo93&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
+<div>
+<a href="https://github.com/CeLo93">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeLo93&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CeLo93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
