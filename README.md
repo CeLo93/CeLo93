@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Unity-brown">
 
-#  *Hello! I'm Marcelo, a passionate Machine Learning engineer, and Unity developer.*
+#  *Hello! I'm Marcelo, a passionate Data Scientist, and Unity developer.*
 
 <em><b>"Companies that stride hand in hand with AI and Cloud are destined for success."</b> :rocket: </em>
 
