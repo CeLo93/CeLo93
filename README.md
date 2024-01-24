@@ -10,14 +10,21 @@
 
 
 # 💫 About Me:
-I am Marcelo, a Civil Engineer currently studying Software Engineering and pursuing a postgraduate course in AI and Machine Learning. I am from Montes Claros, MG, Brazil. You've probably already seen that in my profile summary, right? 😄
+My name is Marcelo Brito, and I am a Data Scientist with a degree in Civil Engineering and a postgraduate degree in Artificial Intelligence and Machine Learning from PUC Minas.
 
-*My passion for programming has led me to master languages such as Python and C#, along with skills in Power BI, SQL, R, and Unity. This allows me to develop efficient, automated solutions and conduct accurate data analysis. Additionally, I have experience in Web Scraping, adding even more value to my skill set. In project development, I am committed to using best versioning practices, utilizing Git along with tools like Sourcetree, Sharepoint, and GitHub Desktop, which optimize team collaboration and project management.* 🤖
+For five years, I worked as a Judicial Expert for TJMG, specializing in real estate analysis using statistical inference and Linear Regression algorithms.
 
+My passion for programming has led me to master languages like Python, SQL, R, and C#, as well as acquire skills in tools like Apache Spark, Airflow, Docker, Amazon Web Services, Power BI, and Unity.
+
+I have always been fascinated by the ability of artificial intelligence to positively impact people's lives, which is why I decided to pursue this career.
+
+Something about me:
+
+I have always loved creating games in Unity since I was young. Nowadays, in my spare time, I work on a solo game project using Unity. It's a project that has provided me with a lot of fun and learning, and I plan to start promoting it after a long time.
 
 <div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 </div>
 
