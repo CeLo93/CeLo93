@@ -1,13 +1,6 @@
 <p align="left">
-<img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Unity-brown">
-
-#  *Hello! I'm Marcelo, a passionate Data Scientist, and Unity developer.*
-
-<em><b>"Companies that stride hand in hand with AI and Cloud are destined for success."</b> :rocket: </em>
-
-
-
-
+<img src="https://img.shields.io/badge/Unity-grey"> <img src="https://img.shields.io/badge/Artificial Inteligence-red"> <img src="https://img.shields.io/badge/Machine Learning-green"> 
+  
 
 # 💫 About Me:
 My name is Marcelo Brito, and I am a Data Scientist with a degree in Civil Engineering and a postgraduate degree in Artificial Intelligence and Machine Learning from PUC Minas.
@@ -18,7 +11,7 @@ My passion for programming has led me to master languages like Python, SQL, R, a
 
 I have always been fascinated by the ability of artificial intelligence to positively impact people's lives, which is why I decided to pursue this career.
 
-Something about me:
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="40"> Something about me  :
 
 I have always loved creating games in Unity since I was young. Nowadays, in my spare time, I work on a solo game project using Unity. It's a project that has provided me with a lot of fun and learning, and I plan to start promoting it after a long time.
 
@@ -29,7 +22,7 @@ I have always loved creating games in Unity since I was young. Nowadays, in my s
 </div>
 
 
-## 🌐 Socials <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="40"> :
+## 🌐 Socials :
 
 
 <a href="https://twitter.com/celu_games" target="_blank">
