@@ -9,18 +9,6 @@ Hi! I'm Marcelo Brito, a Game Developer and Data Scientist. With a background in
 
 For years, I’ve worked with programming languages like **C#**, **Python**, and tools like **Unity**, which fuel my love for building games. Currently, I’m developing an indie game using Unity, where players gather resources, build defenses, and face off against hordes of enemies—a blend of roguelike and tower defense mechanics.  
 
-Creating games isn’t just a hobby for me; it’s my way of combining creativity with technology to craft experiences that players will enjoy.
-
----
-
-## 🌟 What I'm Working On
-- 🎯 **Mini Tower Defense Game**:  
-  A survival-focused **tower defense** game where players protect a central crystal from waves of enemies.
-  - 🏹 **Player Combat**;
-  - 🛡️ **Enemy Targeting System**;
-  - 💰 **Resource Economy**;
-  - ⚔️ **Strategic Gameplay**.
-  - Balance between building defenses and surviving enemy waves. The game combines strategic building mechanics with action-packed combat for an engaging player experience.
 
 - 🤖 **AI-Driven Applications**: Leveraging OpenAI’s ChatGPT API to enhance user experiences in Unity-based projects.
 
@@ -65,14 +53,13 @@ The project is designed to support mental health professionals, providing **diag
 ---
 
 ## 💻 Tech Stack
-- **Game Development**:  
-  ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 - **Programming**:  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=SQL&logoColor=white) 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+
 
 - **Data Science & AI**:  
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -84,6 +71,9 @@ The project is designed to support mental health professionals, providing **diag
 
 - **Visualization**:  
   ![Power BI](https://img.shields.io/badge/Power%20BI-%23FF9F00.svg?style=for-the-badge&logo=PowerBI&logoColor=white)
+
+- **Game Development**:  
+  ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 ---
 
