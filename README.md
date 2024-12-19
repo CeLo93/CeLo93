@@ -5,7 +5,7 @@
 </p>
 
 # 🧔 About Me
-Hi! I'm **Marcelo Brito**, a **Data Scientist** and passionate **Game Developer**. With a background in Civil Engineering and specialization in **Artificial Intelligence** and **Machine Learning**, I thrive at the intersection of technology and creativity.
+Hi! I'm **Marcelo Brito**, a **Data Scientist**. With a background in Civil Engineering and specialization in **Artificial Intelligence** and **Machine Learning**, I thrive at the intersection of technology and creativity.
 
 I’ve spent years mastering programming languages like **C#** and **Python**, focusing on building innovative solutions and captivating digital experiences.
 
