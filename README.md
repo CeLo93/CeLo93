@@ -5,28 +5,25 @@
 </p>
 
 # 🎮 About Me
-Hi! I'm Marcelo Brito, a Game Developer and Data Scientist. With a background in Civil Engineering and a specialization in Artificial Intelligence and Machine Learning, I combine technical expertise with my passion for creating immersive gaming experiences.  
+Hi! I'm **Marcelo Brito**, a **Data Scientist** and passionate **Game Developer**. With a background in Civil Engineering and specialization in **Artificial Intelligence** and **Machine Learning**, I thrive at the intersection of technology and creativity.
 
-For years, I’ve worked with programming languages like **C#**, **Python**, and tools like **Unity**, which fuel my love for building games. Currently, I’m developing an indie game using Unity, where players gather resources, build defenses, and face off against hordes of enemies—a blend of roguelike and tower defense mechanics.  
-
-
-- 🤖 **AI-Driven Applications**: Leveraging OpenAI’s ChatGPT API to enhance user experiences in Unity-based projects.
+I’ve spent years mastering programming languages like **C#** and **Python**, focusing on building innovative solutions and captivating digital experiences.
 
 ---
 
-## 🌟 Highlight: Postgraduate Project  
-This project began as part of my **final thesis** for my postgraduate studies in Artificial Intelligence and Machine Learning at PUC Minas.  
+## 🌟 Featured Project: AI-Powered Mental Health App  
+This project began as a **postgraduate thesis** at PUC Minas, blending Artificial Intelligence with mental health care to address real-world challenges.
 
-### 🌟 Project Goals  
-To create an innovative solution that acts as an **"intermediary psychologist" for adolescents**, utilizing the **OpenAI API** in a fun and engaging way. The application has the following features:
-- 💬 **Conversational Interface**: ChatGPT-powered conversations tailored to be engaging and interactive for teenagers.
-- 📊 **Data Logging**: Conversations are saved as JSON files and securely stored in **AWS S3** for future analysis.
-- 🔍 **Sentiment Analysis**: A custom **Machine Learning model** is being developed to analyze conversation content, detect emotional patterns, and provide valuable insights for healthcare professionals.
-  
-### 🚀 Why This Matters  
-The project is designed to support mental health professionals, providing **diagnostic insights** and detecting patterns over time. While it doesn’t replace professional counseling, it serves as an additional tool for **early detection of issues** and more targeted interventions.  
+### 📌 **Objective**  
+Create an **AI-assisted tool** to serve as a virtual "intermediary psychologist" for adolescents, supporting emotional well-being and encouraging self-reflection.
 
-💡 The vision is to encourage recurring use of the app by adolescents, with parental support, to build a comprehensive interaction history. Over time, this data can uncover undetected emotional patterns, offering unique value in mental health support.
+### 🚀 **Key Features**
+- 💬 **Conversational Interface**: A ChatGPT-powered chatbot tailored to teenage users.  
+- 📊 **Secure Data Logging**: Interaction data stored in **AWS S3** for secure analysis.  
+- 🔍 **Sentiment Analysis**: A custom **ML model** detects emotional patterns, offering actionable insights.  
+
+### 🌈 **Why It Matters**  
+This tool empowers mental health professionals with diagnostic insights and behavioral trends, enhancing early detection and intervention efforts. It's designed to complement therapy, encouraging regular engagement and meaningful interaction.
 
 ---
 
