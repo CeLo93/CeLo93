@@ -52,10 +52,10 @@ This tool empowers mental health professionals with diagnostic insights and beha
 ## 💻 Tech Stack
 
 - **Programming**:  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=SQL&logoColor=white) 
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 - **Data Science & AI**:  
