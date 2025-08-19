@@ -4,25 +4,26 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-red"> 
 </p>
 
-# 🧔 About Me
-Hi! I'm **Marcelo Brito**, a **Data Scientist**. With a background in Civil Engineering and specialization in **Artificial Intelligence** and **Machine Learning**, I thrive at the intersection of technology and creativity.
+Data Analytics and AI Specialist | Civil Engineer | Descriptive and Inferential Statistics.
 
-I’ve spent years mastering programming languages like **C#** and **Python**, focusing on building innovative solutions and captivating digital experiences.
+Professional in Artificial Intelligence and Machine Learning with a strong background in data analysis and inferential statistics. I am passionate about transforming complex data into strategic insights, using AI to optimize processes and make more precise decisions.
+
+My experience includes the practical application of Linear Regression algorithms in real estate appraisals, integrating machine learning for detailed market analysis. Furthermore, engineering project management has enhanced my planning and execution skills, ensuring high-quality results delivered on time. I am currently expanding my competencies with a degree in Software Engineering.
 
 ---
 
-## 🌟 Featured Project: AI-Powered Mental Health App  
+##  Featured Project: AI-Powered Mental Health App  
 This project began as a **postgraduate thesis** at PUC Minas, blending Artificial Intelligence with mental health care to address real-world challenges.
 
-### 📌 **Objective**  
+###  **Objective**  
 Create an **AI-assisted tool** to serve as a virtual "intermediary psychologist" for adolescents, supporting emotional well-being and encouraging self-reflection.
 
-### 🚀 **Key Features**
+###  **Key Features**
 - 💬 **Conversational Interface**: A ChatGPT-powered chatbot tailored to teenage users.  
 - 📊 **Secure Data Logging**: Interaction data stored in **AWS S3** for secure analysis.  
 - 🔍 **Sentiment Analysis**: A custom **ML model** detects emotional patterns, offering actionable insights.  
 
-### 🌈 **Why It Matters**  
+###  **Why It Matters**  
 This tool empowers mental health professionals with diagnostic insights and behavioral trends, enhancing early detection and intervention efforts. It's designed to complement therapy, encouraging regular engagement and meaningful interaction.
 
 ---
