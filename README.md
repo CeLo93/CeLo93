@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-grey"> 
-  <img src="https://img.shields.io/badge/Game%20Development-blue"> 
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-red"> 
-</p>
+
 
 Data Analytics and AI Specialist | Civil Engineer | Descriptive and Inferential Statistics.
 
