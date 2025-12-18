@@ -26,7 +26,7 @@ This tool empowers mental health professionals with diagnostic insights and beha
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://twitter.com/celu_games" target="_blank">
+  <a href="https://twitter.com/celugamesstudio" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   
